@@ -2,10 +2,6 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
-### THIS PROJECT IS DEPRECATED
-This project is no longer supported. The new project/course has been released. The code has been cleaned up and now uses Redux Toolkit. You can find the new version
-
-
 ## Features
 
 - Full featured shopping cart
